@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "text": "Todo -- 1",
+      "alt": "Desc",
+      "id": 1,
+      "like": false,
+      "bookmark": false
+    },
+    {
+      "text": "Todo -- 2",
+      "alt": "Desc",
+      "id": 2,
+      "like": false,
+      "bookmark": false
+    },
+    {
+      "text": "Todo -- 3",
+      "alt": "Desc",
+      "id": 3,
+      "like": false,
+      "bookmark": false
+    },
+    {
+      "text": "Todo -- 4",
+      "alt": "Desc",
+      "id": 4,
+      "like": false,
+      "bookmark": false
+    },
+    {
+      "text": "Todo -- 5",
+      "alt": "Desc",
+      "id": 5,
+      "like": false,
+      "bookmark": false
+    }
+  ]
+}
